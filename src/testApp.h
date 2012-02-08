@@ -13,7 +13,6 @@ Original code:http://3dengine.org/Quaternions
 
 
 #include "ofMain.h"
-#include "Quat.h"
 
 class testApp : public ofBaseApp{
 	
